@@ -1,0 +1,7 @@
+default:
+  btc: "data/btc1c.txt"
+  eth: "data/eth1c.txt"
+  choice: "all"
+  mnemonic: "24"
+  step: "1"
+  thread: "4"
