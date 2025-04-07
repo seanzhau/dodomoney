@@ -2,7 +2,7 @@
 
 Check Bitcoin and Ethereum balancer with local address library.
 
-![dodomoney](data/dodomoney.png)
+![dodomoney](images/dodomoney.png)
 
 ## Donations:
 
